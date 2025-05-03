@@ -1,0 +1,23 @@
+{
+  "greeting": "Eae",
+  "name": "Maria",
+  "greetingText": "Aliás, eu realmente gosto do seu nome!",
+  "wishText": "Que a felicidade esteja sempre com você! ;)",
+  "imagePath": "img/maria.jpeg",
+  "text1": "É o seu aniversário!!! :D",
+  "textInChatBox": "Feliz aniversário pra você!! Ebaaa! Muitos e muitos parabéns e blá blá...",
+  "sendButtonLabel": "Enviar",
+  "text2": "Era isso que eu ia fazer.",
+  "text3": "Mas aí eu parei.",
+  "text4": "Percebi que queria fazer algo",
+  "text4Adjective": "especial",
+  "text5Entry": "Porque,",
+  "text5Content": "Você é especial",
+  "smiley": ":)",
+  "bigTextPart1": "Mui",
+  "bigTextPart2": "TO",
+  "wishHeading": "Feliz Aniversário!",
+  "outroText": "Espero que tenha gostado! Amo você!",
+  "replayText": "Clica aqui se quiser ver de novo",
+  "outroSmiley": ":)"
+}
